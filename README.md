@@ -1,4 +1,4 @@
-# Welcome on my GitHub page! 👋
+# Welcome on my GitHub page! <img src="https://github.com/SalimAmarti/SalimAmarti/blob/master/wave.gif" width="30px">
 
 ![Header](https://github.com/SalimAmarti/SalimAmarti/blob/master/Readme_header2.png)
 
