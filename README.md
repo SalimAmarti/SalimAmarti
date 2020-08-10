@@ -1,4 +1,4 @@
-# Welcome on my Github page! 👋
+# Welcome on my GitHub page! 👋
 
 ![Header](https://github.com/SalimAmarti/SalimAmarti/blob/master/Readme_header2.png)
 
