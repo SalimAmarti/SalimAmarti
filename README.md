@@ -25,14 +25,14 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c6c90c)
-![](https://img.shields.io/badge/Visualization-Power_BI-informational?style=flat&logo=power-bi&logoColor=white&color=c6c90c)
-![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=c6c90c)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=c6c90c)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=c6c90c)
-![](https://img.shields.io/badge/Version_control-Git-informational?style=flat&logo=git&logoColor=white&color=c6c90c)
-![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=c6c90c)
-![](https://img.shields.io/badge/Tools-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=c6c90c)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Visualization-Power_BI-informational?style=flat&logo=power-bi&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Version_control-Git-informational?style=flat&logo=git&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Tools-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=3fa6d5)
+![](https://img.shields.io/badge/Tools-Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=3fa6d5)
 
 ## &#9993; Contact
 
