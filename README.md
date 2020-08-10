@@ -1,6 +1,6 @@
 # Hi and welcome on my Github page! 👋
 
-![Header](https://github.com/SalimAmarti/SalimAmarti/blob/master/Readme_header.png)
+![Header](https://github.com/SalimAmarti/SalimAmarti/blob/master/Readme_header2.png)
 
 I am **Salim**, an aspiring Data Scientist working on various exciting projects to strengthen my skills.
 
