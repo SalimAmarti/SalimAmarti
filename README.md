@@ -6,21 +6,22 @@ I am **Salim**, an aspiring Data Scientist working on various exciting projects 
 
 - **Titanic Kaggle project:** *Finished*.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This is an exciting project which goal is to predict whether someone survived or not on the Titanic. I reached the top 12% of the Kaggle's leaderboard!*
+    *This is an exciting project which goal is to predict whether someone survived or not on the Titanic. I reached the top 12% of the Kaggle's leaderboard!*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Click here to see the project](https://github.com/SalimAmarti/Titanic_Project).
+
+    [Click here to see the project](https://github.com/SalimAmarti/Titanic_Project).
 
 - **Memory Box game:** *Finished*.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*This project was for me to learn more efficiently associations of information such as countries and capitals.*
+    *This project was for me to learn more efficiently associations of information such as countries and capitals.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Click here to see the project](https://github.com/SalimAmarti/Memory-Box).
+    [Click here to see the project](https://github.com/SalimAmarti/Memory-Box).
 
 - **OTT Movies EDA:** *Work in progress...*
+    
+    *On this project I am performing an extensive Exploratory Data Analysis (EDA) to find as many meaningful insights as possible. I am using a Kaggle dataset of Netflix, Hulu, Prime Video and Disney+ movies.*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*On this project I am performing an extensive Exploratory Data Analysis (EDA) to find as many meaningful insights as possible. I am using a Kaggle dataset of Netflix, Hulu, Prime Video and Disney+ movies.*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Click here to see the project](https://github.com/SalimAmarti/OTT_movies_Project).
+    [Click here to see the project](https://github.com/SalimAmarti/OTT_movies_Project).
 
 ## 🔧 Technologies & Tools
 
