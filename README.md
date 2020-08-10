@@ -2,8 +2,6 @@
 
 ![Header](https://github.com/SalimAmarti/SalimAmarti/blob/master/Readme_header2.png)
 
-I am **Salim**, an aspiring Data Scientist working on various exciting projects to strengthen my skills.
-
 ## &#128218; Current projects
 
 - **Titanic Kaggle project:** *Finished*.
