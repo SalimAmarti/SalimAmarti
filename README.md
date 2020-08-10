@@ -1,6 +1,6 @@
 # Hi and welcome on my Github page! 👋
 
-![Header]("Readme_header.png" "Header")
+![Header](Readme_header.png)
 
 I am **Salim**, an aspiring Data Scientist working on various exciting projects to strengthen my skills.
 
