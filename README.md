@@ -17,11 +17,13 @@
 
     [Click here to see the project](https://github.com/SalimAmarti/Memory-Box).
 
-- **OTT Movies EDA:** *Work in progress...*
+- **OTT Movies EDA:** *Finished*.
     
     *On this project I am performing an extensive Exploratory Data Analysis (EDA) to find as many meaningful insights as possible. I am using a Kaggle dataset of Netflix, Hulu, Prime Video and Disney+ movies.*
 
     [Click here to see the project](https://github.com/SalimAmarti/OTT_movies_Project).
+    
+- *The next project will be a Machine Learning one, I haven't decided yet on which dataset I will work on...*
 
 ## 🔧 Technologies & Tools
 
