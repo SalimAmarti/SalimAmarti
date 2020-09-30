@@ -23,7 +23,7 @@
 
     [Click here to see the project](https://github.com/SalimAmarti/OTT_movies_Project).
     
-- *The next project will be a Machine Learning one, I haven't decided yet on which dataset I will work on...*
+- *The next project will be a NLP one, I haven't decided yet on which dataset I will work on...*
 
 ## 🔧 Technologies & Tools
 
