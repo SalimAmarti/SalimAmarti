@@ -23,7 +23,11 @@
 
     [Click here to see the project](https://github.com/SalimAmarti/OTT_movies_Project).
     
-- *The next project will be a NLP one, I haven't decided yet on which dataset I will work on...*
+- **PS5 vs. Xbox Series X - NLP** *Finished*.
+
+   *This project was both challenging and rewarding. I have learned a lot performing sentiment analysis and using NLP techniques on YouTube comments.*
+   
+    [Click here to see the project](https://github.com/SalimAmarti/PS5_vs_XboxSeriesX).
 
 ## 🔧 Technologies & Tools
 
