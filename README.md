@@ -23,7 +23,7 @@
 
     [Click here to see the project](https://github.com/SalimAmarti/OTT_movies_Project).
     
-- **PS5 vs. Xbox Series X - NLP** *Finished*.
+- **PS5 vs. Xbox Series X - NLP:** *Finished*.
 
    *This project was both challenging and rewarding. I have learned a lot performing sentiment analysis and using NLP techniques on YouTube comments.*
    
