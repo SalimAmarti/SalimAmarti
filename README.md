@@ -8,7 +8,6 @@
 
     *This is an exciting project which goal is to predict whether someone survived or not on the Titanic. I reached the top 12% of the Kaggle's leaderboard!*
 
-
     [Click here to see the project](https://github.com/SalimAmarti/Titanic_Project).
 
 - **Memory Box game:** *Finished*.
@@ -28,6 +27,13 @@
    *This project was both challenging and rewarding. I have learned a lot performing sentiment analysis and using NLP techniques on YouTube comments.*
    
     [Click here to see the project](https://github.com/SalimAmarti/PS5_vs_XboxSeriesX).
+    
+- **Color clustering tool:** *Finished*.
+
+   *This project is a color clustering tool using Instagram pictures. It extracts the top used colors of an Instagram page.*
+   
+    [Click here to see the project](https://github.com/SalimAmarti/Color_Classifier).
+    
 
 ## 🔧 Technologies & Tools
 
