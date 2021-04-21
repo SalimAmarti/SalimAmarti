@@ -34,6 +34,12 @@
    
     [Click here to see the project](https://github.com/SalimAmarti/Color_Classifier).
     
+- **Sleep analysis:** *Finished*.
+
+   *In this project I had to work with time series on sleep data to extract insights and take concrete actions.*
+   
+    [Click here to see the project](https://github.com/SalimAmarti/Sleep_Analysis).
+    
 
 ## 🔧 Technologies & Tools
 
