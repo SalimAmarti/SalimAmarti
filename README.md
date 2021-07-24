@@ -40,6 +40,11 @@
    
     [Click here to see the project](https://github.com/SalimAmarti/Sleep_Analysis).
     
+- **Spotify challenge:** *Finished*.
+   
+   *I participated to the Onyx Data Dataset challenge on Spotify data.*
+   
+    [Click here to see the project](https://github.com/SalimAmarti/Spotify_Challenge).
 
 ## 🔧 Technologies & Tools
 
